@@ -49,12 +49,12 @@ class Loan:
 
 # ---------- Test działania programu ----------
 if __name__ == "__main__":
-    #Książki
+    # Książki
     book1 = Book("Wiedźmin", "Andrzej Sapkowski")
     book2 = Book("Lalka", "Bolesław Prus")
     book3 = Book("Zbrodnia i kara", "Fiodor Dostojewski")
 
-    #Członkowie biblioteki
+    # Członkowie biblioteki
     member1 = Member("Alicja", "M001")
     member2 = Member("Bartek", "M002")
 
